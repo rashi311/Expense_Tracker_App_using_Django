@@ -20,19 +20,19 @@ A simple and user-friendly **Expense Tracker** web application built with **Djan
 
 ## 📂 Project Structure
 
+<pre>
 Expense_Tracker_App_using_Django/
 ├── mysite/
-│ ├── expenseapp/
-│ ├── mysite/
-│ ├── db.sqlite3
-│ └── manage.py
+│   ├── expenseapp/
+│   ├── mysite/
+│   ├── db.sqlite3
+│   └── manage.py
+</pre>
 
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/rashi311/Expense_Tracker_App_using_Django.git
-cd Expense_Tracker_App_using_Django/mysite
+1. Clone the Repository
+  git clone https://github.com/rashi311/Expense_Tracker_App_using_Django.git
+  cd Expense_Tracker_App_using_Django/mysite
 
 
 2. Create and Activate Virtual Environment
