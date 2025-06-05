@@ -29,6 +29,23 @@ Expense_Tracker_App_using_Django/
 │   └── manage.py
 </pre>
 
+### Screenshot 1: Add,Update and delete expense & give total expense amount
+
+<p align="center">
+  <img src="images/screenshot1.png"  width="600" />
+</p>
+
+### Screenshot 2: Filter expenses by date and categorize expense
+<p align="center">
+  <img src="images/screenshot2.png"  width="600" />
+</p>
+
+### Screenshot 3: Expense spread across categories using pie chart and daily expense sum using line chart 
+<p align="center">
+  <img src="images/screenshot3.png"  width="600" />
+</p>
+
+
 
 ## 🚀 Getting Started
 
