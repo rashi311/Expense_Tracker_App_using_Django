@@ -22,9 +22,9 @@ A simple and user-friendly **Expense Tracker** web application built with **Djan
 
 Expense_Tracker_App_using_Django/
 ├── mysite/
-│ ├── expenseapp/ # Main expense tracking app
-│ ├── mysite/ # Project configuration
-│ ├── db.sqlite3 # Default SQLite database
+│ ├── expenseapp/
+│ ├── mysite/
+│ ├── db.sqlite3
 │ └── manage.py
 
 
