@@ -30,31 +30,40 @@ Expense_Tracker_App_using_Django/
 </pre>
 
 
-1. Clone the Repository
-  git clone https://github.com/rashi311/Expense_Tracker_App_using_Django.git
-  cd Expense_Tracker_App_using_Django/mysite
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+```bash
+1. clone the Repository
+git clone https://github.com/rashi311/Expense_Tracker_App_using_Django.git
+cd Expense_Tracker_App_using_Django/mysite
 
 
 2. Create and Activate Virtual Environment
-   python -m venv env
-   source env/bin/activate
+python -m venv env
+source env/bin/activate
 
 3. Install Required Packages
-   pip install -r ../requirements.txt
+pip install -r ../requirements.txt
 
 4. Apply Migrations
-   python manage.py makemigrations
-   python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
 
 5. Create Superuser (for admin acces)
-   python manage.py createsuperuser
+python manage.py createsuperuser
 
 6. Run the Server
-   Python manage.py runserver
+Python manage.py runserver
 
 🧪 Testing
-   You can run tests using:
-   python manage.py test
+You can run tests using:
+python manage.py test
+
+
+
+
 
 
 
